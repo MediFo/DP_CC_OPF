@@ -1,0 +1,15 @@
+# Python dependencies for ADMM Convergence Fixes
+# Install with: pip install -r requirements.txt
+
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+
+# For Jupyter notebook
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Optional: For real Paillier encryption (WARNING: SLOW!)
+# Uncomment the line below to use real encryption
+# phe>=1.5.0
